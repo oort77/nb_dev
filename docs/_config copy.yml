@@ -1,7 +1,7 @@
-repository: oort77/nb_dev
+repository: {oort77}/{nb_dev}
 output: web
-topnav_title: nb_dev
-site_title: nb_dev
+topnav_title: {nb_dev}
+site_title: {nb_dev}
 company_name: oort77
 description: Test nbdev library
 # Set to false to disable KaTeX math
