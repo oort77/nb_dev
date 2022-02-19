@@ -2,9 +2,9 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"sharpe": "00_core.ipynb"}
 
-modules = []
+modules = ["core.py"]
 
 doc_url = "https://oort77.github.io/nb_dev/"
 
